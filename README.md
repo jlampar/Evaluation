@@ -1,5 +1,5 @@
 # Evaluation
-Evaluation works on CSV files.
+CSV-based evaluation.
 
 Program takes 3 files as the input:
 - products.csv - products table (price,currency,quantity,corresponding_id
