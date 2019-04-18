@@ -2,7 +2,7 @@
 CSV-based evaluation.
 
 Program takes 3 files as the input:
-- products.csv - products table (price,currency,quantity,corresponding_id
+- products.csv - products table (price,currency,quantity,corresponding_id)
 - currency_ratio.csv - currencies and their ratio to PLN
 - correspondence.csv - limits of products count in cateogories
 
